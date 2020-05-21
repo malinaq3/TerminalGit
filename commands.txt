@@ -1,0 +1,18 @@
+   97  cd Coders\ School/
+   98  git clone https://github.com/malinaq3/TerminalGit.git
+   99  cd TerminalGit/
+  100  touch processes.txt
+  101  ps aux > processes.txt 
+  102  cp processes.txt copy.txt
+  103  mkdir kopia
+  104  mv copy.txt kopia/
+  105  ls
+  106  wc -l >> processes.txt 
+  107  vim processes.txt 
+  108  wc -l processes.txt >> processes.txt 
+  109  vim processes.txt 
+  110  ls
+  111  grep /bin processes.txt 
+  112  grep /bin processes.txt >> processes.txt 
+  113  vim processes.txt 
+  114  history
