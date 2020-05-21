@@ -253,3 +253,6 @@ bart        1701  0.0  0.3 2745148 27408 ?       Sl   09:48   0:00 /usr/bin/gjs 
 bart        7233  0.1  0.9 1145416 79084 ?       Sl   09:55   0:09 /usr/bin/nautilus --gapplication-service
 bart        7340  0.2  2.5 1055920 206436 ?      Sl   09:56   0:17 /snap/snap-store/454/usr/bin/snap-store --local-filename /home/bart/Pobrane/google-chrome-stable_current_amd64.deb
 
+
+Blad
+
